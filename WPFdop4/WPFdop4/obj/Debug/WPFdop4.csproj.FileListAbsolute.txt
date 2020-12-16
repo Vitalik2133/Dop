@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WPFdop4\WPFdop4\bin\Debug\WPFdop4.exe.config
+C:\Users\user\source\repos\WPFdop4\WPFdop4\bin\Debug\WPFdop4.exe
+C:\Users\user\source\repos\WPFdop4\WPFdop4\bin\Debug\WPFdop4.pdb
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\WPFdop4.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\WPFdop4_MarkupCompile.cache
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\WPFdop4_MarkupCompile.lref
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\WPFdop4.g.resources
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\WPFdop4.Properties.Resources.resources
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\WPFdop4.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\WPFdop4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\WPFdop4.exe
+C:\Users\user\source\repos\WPFdop4\WPFdop4\obj\Debug\WPFdop4.pdb
